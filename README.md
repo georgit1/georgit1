@@ -29,7 +29,7 @@ Explore some of my projects that reflect my dedication to creating innovative an
 
 ### FoodLab App
 
-![FoodLab Mockups](/img/foodlab.png)
+[![FoodLab Mockups](/img/foodlab.png)](https://food-lab1.vercel.app)
 
 FoodLab is a feature-rich and fully-responsive food app designed to help understanding and optimizing your nutrition intake. Tailored to your unique biometric data, it delivers personalized nutritional insights, allowing you to analyze the nutritional content of various foods or your own custom-created meals.
 
@@ -45,7 +45,7 @@ FoodLab is a feature-rich and fully-responsive food app designed to help underst
 
 ### Payroll App
 
-![Payroll Mockups](/img/payroll.png)
+[![Payroll Mockups](/img/payroll.png)](https://minor-jobs-payroll.netlify.app)
 
 This application allows you to manage minor jobs, track salaries, and view financial data using a user-friendly calendar interface and an insightful dashboard.
 
@@ -78,7 +78,7 @@ Feel free to reach out if you have any questions. I would love to help or contri
 
 ***
 
-A random quote that might you inspire:
+A random quote that might inspire you:
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
