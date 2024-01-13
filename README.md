@@ -5,7 +5,7 @@ I am on a journey to turn my passion and enthusiasm for web development into a f
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
-## 💻 About Me
+## 👱‍♂️ About Me
 
 I am fascinated by the world of programming. My venture into the realm of coding is not just about creating websites and applications, it's a constant exploration, a journey of continuous learning and improvement.
 
