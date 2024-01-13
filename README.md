@@ -7,7 +7,9 @@ I am on a journey to turn my passion and enthusiasm for web development into a f
 
 ## 💻 About Me
 
-I am fascinated by the world of programming. My journey in the world of coding is not just about creating websites and applications, it's a constant exploration, a journey of continuous learning and improvement. For the past two years, I have delved into the world of web development as a self-taught enthusiast, creating digital solutions that mirror my dedication to producing high-quality work.
+I am fascinated by the world of programming. My venture into the realm of coding is not just about creating websites and applications, it's a constant exploration, a journey of continuous learning and improvement.
+
+Over the last two years, I've immersed myself in the domain of web development as a self-taught enthusiast, creating digital solutions that mirror my dedication to producing high-quality work.
  
 ***
 
