@@ -17,7 +17,7 @@ Over the last two years, I've immersed myself in the domain of web development a
 
 [![Figma, HTML, CSS, Sass, MaterialUi, Tailwind, Bootstrap](https://skillicons.dev/icons?i=figma,html,css,sass,materialui,tailwind,bootstrap)](https://skillicons.dev)
 <br><br>
-[![Javascript, jQuery ,React, React Redux, Nextjs](https://skillicons.dev/icons?i=javascript,jquery,react,redux,next)](https://skillicons.dev)
+[![JavaScript, TypeScript, jQuery ,React, React Redux, Nextjs, Jest](https://skillicons.dev/icons?i=javascript,typescript,jquery,react,redux,next,jest)](https://skillicons.dev)
 <br><br>
 [![PHP, MySql, Prisma, Planetscale, MongoDB, Supabase, Git, Webpack](https://skillicons.dev/icons?i=php,mysql,prisma,planetscale,mongodb,supabase,git,webpack)](https://skillicons.dev)
 
