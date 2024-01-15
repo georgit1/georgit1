@@ -76,7 +76,7 @@ This application allows you to manage minor jobs, track salaries, and view finan
 
 Feel free to reach out if you have any questions. I would love to help or contribute in a positive way.
 
-<a href="mailto:georgreinthaler60.gr@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/channels/@me/ge.org1/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/georg_11)  
+<a href="mailto:georgreinthaler.dev@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/channels/@me/ge.org1/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/georg_11)  
 
 ***
 
